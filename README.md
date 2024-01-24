@@ -1,2 +1,2 @@
 # RoboDog
-The files were too big to upload to github.
+Please see the project report for the full rundown of the project. 
