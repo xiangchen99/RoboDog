@@ -1,2 +1,3 @@
 # RoboDog
-Please see the project report for the full rundown of the project. 
+Project that explores machine learning on embedded systems with deployed local language models. 
+Gesture and voice recognition were deployed on an handheld Arduino, with wireless communication with another Ardiuno deployed on a robotic dog that mimics a dog through commands (play fetch, call, do tricks).
